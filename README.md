@@ -4,8 +4,9 @@ WhatsUp Gold's discovery engine is highly extensible and customizable. By creati
 
 ## Usage
 Download the .json file and then import it to WhatsUp Gold.
-  [Video overview](https://www.youtube.com/watch?v=SmRaumfw_Hs)
-  [Documentation](https://docs.progress.com/bundle/whatsupgold-user-help-23-1/page/Importing-and-Exporting-Roles.html)
+
+  * [Video overview](https://www.youtube.com/watch?v=SmRaumfw_Hs)
+  * [Documentation](https://docs.progress.com/bundle/whatsupgold-user-help-23-1/page/Importing-and-Exporting-Roles.html)
 
 ## Support
 These device role templates come with no warranty or support from anyone and are offered as-is.
